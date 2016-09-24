@@ -1,0 +1,71 @@
+.tw-search {
+
+width: 395px !important;
+
+}
+
+body {
+
+padding-top: 60px;
+
+}
+
+.search-but {
+
+padding-right: 20px;
+
+}
+
+.nav-but {
+
+padding-left: 10px;
+margin-right:20px;
+
+}
+
+.nav-left{
+  padding-right: 20px;
+  float: left !important;
+  padding-left: 10px;
+
+}
+
+.div-no-padding{
+  padding-bottom: 0px;
+  padding-top: 0px;
+  margin-bottom: 0px;
+  margin-top: 0px;
+  padding-left: 10px;
+  padding-right: 10px;
+  margin-left: 0px;
+  margin-right: 35px;
+}
+
+.rt-like-border{
+  margin-top: 20px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  margin-bottom: 20px;
+  border-top: 1px solid lightgrey;
+  border-bottom: 1px solid lightgrey;
+}
+
+.pic-border{
+  margin-left: 5px;
+  margin-right: 5px;
+  padding-left: 0px;
+  padding-right:0px;
+}
+
+.btn-close {
+  margin-right: 0px;
+  padding-right:0px;
+}
+
+.btn-round-right {
+    border-radius: 0px 5px 5px 0px !important;
+}
+
+.btn-round-left {
+    border-radius: 5px 0px 0px 5px !important;
+}
