@@ -51,8 +51,8 @@ margin-right:20px;
 }
 
 .pic-border{
-  margin-left: 5px;
-  margin-right: 5px;
+  margin-left: 1px;
+  margin-right: 1px;
   padding-left: 0px;
   padding-right:0px;
 }
@@ -68,4 +68,33 @@ margin-right:20px;
 
 .btn-round-left {
     border-radius: 5px 0px 0px 5px !important;
+}
+
+.div-no-bottom{
+    padding-bottom: 0px;
+    margin-bottom: 0px;
+    padding-left: 0px;
+}
+
+.div-color{
+  padding-top: 15px;
+  background-color: #f2f2f2;
+}
+
+.middle-div-format{
+  border-color: #DCDCDC;
+  border-width: thin;
+  border-style: solid;
+  margin: 20px;
+
+  border-radius: 5px;
+}
+
+.all-mid-divs{
+  margin-left: 20px;
+  margin-right: 20px;
+}
+
+.top-mid-div{
+  margin-top:20px;
 }
